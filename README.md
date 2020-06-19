@@ -16,3 +16,7 @@ And to decode:
     decoder_ring$ ./decode.py "24 - 6 - 14 - 14 - 3 - 18 - 3 - 17 - 14 - 9"
      input = ['24', '6', '14', '14', '3', '18', '3', '17', '14', '9']
      output = HELLOWORLD
+
+An astute reader also recommended <https://www.boxentriq.com/code-breaking/a1z26>
+with the alphabet set to "`IZOACEBFDGPMNLKQRWVXUYSHJT`" as a convenient
+alternative.
